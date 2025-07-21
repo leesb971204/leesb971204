@@ -4,4 +4,4 @@
 
 
 ## :octocat: Contributions
-- @tanstack/react-router ([PR1](https://github.com/TanStack/router/pull/3381), [PR2](https://github.com/TanStack/router/pull/3419), [PR3](https://github.com/TanStack/router/pull/4691))
+- @tanstack/react-router ([PR1](https://github.com/TanStack/router/pull/3381), [PR2](https://github.com/TanStack/router/pull/3419), [PR3](https://github.com/TanStack/router/pull/4691), [PR4](https://github.com/TanStack/router/pull/4730))
