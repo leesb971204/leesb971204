@@ -4,4 +4,4 @@
 
 
 ## :octocat: Contributions
-- @tanstack/react-router ([PR1](https://github.com/TanStack/router/pull/3381), [PR2](https://github.com/TanStack/router/pull/3419), [PR3](https://github.com/TanStack/router/pull/4691), [PR4](https://github.com/TanStack/router/pull/4730), [PR5](https://github.com/TanStack/router/pull/4739))
+- @tanstack/react-router : [list](https://github.com/search?q=repo%3ATanStack%2Frouter%20is%3Apr%20is%3Amerged%20author%3Aleesb971204&type=pullrequests)
